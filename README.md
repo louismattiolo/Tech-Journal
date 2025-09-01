@@ -14,4 +14,6 @@ Enterprise & Network Security Controlls  : [SEC-350](https://github.com/louismat
 
 Network Design : [NET-330](https://github.com/louismattiolo/NET-330/wiki)
         
-Automation & Scripting : [SYS-320](https://github.com/louismattiolo/SYS320-01) 
+Automation & Scripting : [SYS-320](https://github.com/louismattiolo/SYS320-01/wiki) 
+
+Ethical Hacking & Penetration Testing : [SEC-335](https://github.com/louismattiolo/SEC-335/wiki)
