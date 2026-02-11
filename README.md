@@ -22,6 +22,8 @@ Threat Hunting : [FOR-440](https://github.com/louismattiolo/FOR-440)
 
 Malware Analysis : [FOR-350](https://github.com/louismattiolo/FOR-350)
 
+Advanced Topics in Cyber Security : [SEC-480](https://github.com/louismattiolo/SEC-480/wiki)
+
 ---------------------------
 ### Other Projects
 
